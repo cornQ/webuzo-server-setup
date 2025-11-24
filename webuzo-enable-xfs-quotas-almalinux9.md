@@ -8,6 +8,8 @@ Append the "rootflags=uquota" in "GRUB_CMDLINE_LINUX=" line
 
 > GRUB_CMDLINE_LINUX="crashkernel=auto rhgb quiet rootflags=uquota"
 
+#### Note.: Keep previous record too inside GRUB_CMDLINE_LINUX= . Don't remove anything without having proper knowledge.
+
 Rebuild the grub configuration file by executing following command.
 
 ` grub2-mkconfig -o /boot/grub2/grub.cfg` 
