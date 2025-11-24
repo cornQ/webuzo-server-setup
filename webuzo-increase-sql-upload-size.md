@@ -7,4 +7,4 @@ Navigate to `Home > Settings > Panel Config` and increase `Webuzo PHP Max Post S
 > Note:  `Webuzo PHP Max Post Size` is mostly greater than the `Webuzo PHP Max Upload Size`.
 
 
-### This method doesn't work always especially for hug big database. Use mysqldump instead of this method.
+### This method doesn't always work, especially for a huge database. Use mysqldump instead of this method.
