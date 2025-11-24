@@ -24,6 +24,6 @@ This will ensure the process limits are correctly applied.
 > Note.: This works for only Terminal (inside Webuzo). It doesn't work for SSH.
 
 \
-Verify the change running by following the command,
+Verify the change running by following the command inside the user account,
 
 `ulimit -u`
