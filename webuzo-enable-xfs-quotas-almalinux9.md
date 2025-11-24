@@ -1,3 +1,5 @@
+Instructions: https://webuzo.com/docs/admin/enable-xfs-quotas/
+
 Run command 
 
 ` nano /etc/sysconfig/grub`
