@@ -103,6 +103,11 @@ a:hover {
   color: var(--color-heading);
 }
 
+/* Change hamburger menu icon color */
+.md-header__button.md-icon svg path {
+  fill: #012891 !important;
+}
+
 
 /* Grid view  start */
 
