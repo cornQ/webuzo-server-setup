@@ -1,0 +1,57 @@
+:root {
+  --color-header-footer: #FFFFFF;
+  --color-body: #EFF1F6;
+  --color-text: #55617f;
+  --color-heading: #283557;
+  --color-link: #3c99df;
+  --color-link-hover: #012891;
+  --font-base: "Nanuto", sans-serif;
+}
+
+body {
+  background-color: var(--color-body);
+  color: var(--color-text);
+  font-family: var(--font-base);
+}
+
+.md-header, .md-footer {
+  background-color: var(--color-header-footer);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--color-heading);
+  font-family: var(--font-base);
+}
+
+a {
+  color: var(--color-link);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--color-link-hover);
+  text-decoration: underline;
+}
+
+.md-content {
+  background-color: var(--color-body);
+}
+
+.md-typeset code,
+.md-typeset pre {
+  font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+  background-color: #e0e4ec;
+  color: #283557;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+}
+
+.md-typeset .admonition, .md-typeset details {
+  border-radius: 5px;
+  font-family: var(--font-base);
+}
+
+.md-typeset .admonition-title {
+  font-weight: bold;
+  color: var(--color-heading);
+}
