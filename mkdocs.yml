@@ -16,6 +16,11 @@ theme:
     text: Nanuto
   language: en
 
+extra:
+  analytics:
+    provider: google
+    property: G-QPJ92NMTPQ
+
 extra_css:
   - css/style.css
 
