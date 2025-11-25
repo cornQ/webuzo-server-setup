@@ -10,7 +10,9 @@ When the user tries to delete his/her backup, he/she gets the following error.
 
 Run the following command to allow delete permission to the user for his/her backup.
 
-`backuply --enable-delete-backups`
+```bash
+backuply --enable-delete-backups
+```
 
 This will enable the delete option for Backuply in the end user panel.
 

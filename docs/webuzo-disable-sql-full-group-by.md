@@ -3,6 +3,8 @@ Sometimes, we may get the following error, which prevents us from running our we
 ![webuzo-disable-sql-full-group-by](img/webuzo-sql-full-group-by-enabled.jpeg "webuzo-disable-sql-full-group-by")
 
 
-Add/update the following line under the `[mysqld]` section in `/etc/my.cnf` and then `restart` the MySQL service.
+Add/update the following line under the __[mysqld]__ section in __/etc/my.cnf__ and then __restart__ the MySQL service.
 
-`SET GLOBAL sql_mode = 'STRICT_TRANS_TABLES,NO_ENGINE_SUBSTITUTION';`
+```conf
+SET GLOBAL sql_mode = 'STRICT_TRANS_TABLES,NO_ENGINE_SUBSTITUTION';
+```

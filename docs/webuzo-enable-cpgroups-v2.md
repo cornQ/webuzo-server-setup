@@ -2,6 +2,8 @@ Instruction: https://webuzo.com/docs/how-tos/how-to-enable-cgroups-v2/
 
 If the instruction doesn't work, then follow the same guide and after that execute this command :
 
-` /usr/local/emps/bin/php /usr/local/webuzo/cron.php `
+```bash
+/usr/local/emps/bin/php /usr/local/webuzo/cron.php 
+```
 
-Note: Run after reboot
+> Note: Run after reboot
