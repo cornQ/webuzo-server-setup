@@ -3,13 +3,6 @@ docs_dir: docs
 site_description: Documentation for Webuzo custom setups & fixes by CORNQ
 site_url: https://webuzo.cornq.net
 
-nav:
-  - Home: index.md
-  - Guides:
-      - 'Allow User Delete': webuzo-allow-user-to-delete-b...md
-      - 'Cron Setup': webuzo-awstat-cron-setup.md
-      # ... add other files here
-
 theme:
   name: material
   features:
@@ -31,3 +24,39 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
   - pymdownx.details
+
+nav:
+  - Home: index.md
+  - Guides:
+      - 'Allow User Delete': webuzo-allow-user-to-delete-b...md
+      - 'Cron Setup': webuzo-awstat-cron-setup.md
+      # ... add other files here
+
+
+
+# ---------------------------------------------------------
+# NAVIGATION SETUP
+# ---------------------------------------------------------
+nav:
+  - Home: index.md
+  - 'System Setup':
+      - 'Enable CPgroups v2 in AlmaLinux 9': webuzo-enable-cpgroups-v2.md
+      - 'Enable XFS Quotas (Alma9)': webuzo-enable-xfs-quotas-almalinux9.md
+      - 'Change Hostname Default Page': webuzo-hostname-default-page-changing.md
+      - 'Awstats Cron Setup': webuzo-awstat-cron-setup.md
+  - 'Database & Cache':
+      - 'Disable SQL Full Group': webuzo-disable-sql-full-group-by.md
+      - 'Increase SQL Upload Size': webuzo-increase-sql-upload-size.md
+      - 'Clear OLS Cache': webuzo-openlitespeed-cache-clean.md
+  - 'User & Resources':
+      - 'Check User Resource Limits': webuzo-check-resource-limit-from-end-user-terminal.md
+      - 'Increase Terminal Max Processes': webuzo-increase-terminal-max-processes-for-a-specific-user.md
+      - 'Fix User Directory Permissions': webuzo-fix-directory-permission-for-user.md
+      - 'Allow User to Delete Backuply Files': webuzo-allow-user-to-delete-backuply-backup-files.md
+  - 'Mail & FTP':
+      - 'MailBaby Configuration': webuzo-mailbaby-configuration.md
+      - 'Webmail Default URL': webuzo-webmail-default-login-url.md
+      - 'Fix FTP Issues': webuzo-ftp-file-transfer-issue-solved.md
+  - 'Migrations':
+      - 'Migrate from CyberPanel': webuzo-migration-from-cyber-panel.md
+      - 'Import via Root Pass': webuzo-to-webuzo-import-using-root-password.md
