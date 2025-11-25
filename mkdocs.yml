@@ -12,6 +12,7 @@ theme:
     - search.suggest
     - search.highlight
   custom_dir: docs
+  custom_dir: docs/partials
   font:
     text: Nanuto
   language: en
