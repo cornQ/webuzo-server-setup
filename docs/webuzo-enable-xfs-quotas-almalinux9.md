@@ -21,10 +21,11 @@ Rebuild the grub configuration file by executing following command.
 grub2-mkconfig -o /boot/grub2/grub.cfg
 ```
 
-> Reboot the server
+#### Reboot the server
+
 
 !!! note
-If your OS is __almalinux 9__ and the above solution did not work, then execute the below command as root and reboot the server:
+    If your OS is __almalinux 9__ and the above solution did not work, then execute the below command as root and reboot the server:
 
 ```bash
 grubby --args="rootflags=uquota" --update-kernel=ALL
@@ -32,7 +33,7 @@ grubby --args="rootflags=uquota" --update-kernel=ALL
 
 
 !!! note
-Make a copy of the grub configuration file.
+    Make a copy of the grub configuration file.
 
 ```bash
 cp -ax /boot/efi/EFI/almalinux/grub.cfg /boot/efi/EFI/almalinux/grub.cfg.$(date +%s)
