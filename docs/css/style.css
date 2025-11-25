@@ -28,6 +28,13 @@ body {
   background-color: var(--color-header-footer);
 }
 
+.md-nav--primary .md-nav__list {
+        background-color: var(--color-header-footer);
+        padding-right: .6rem;
+        padding-top: .6rem;
+        padding-bottom: .6rem;
+    }
+
 h1, h2, h3, h4, h5, h6 {
   color: var(--color-heading);
   font-family: var(--font-base);
