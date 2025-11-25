@@ -15,7 +15,7 @@ body {
 }
 
 .md-header, .md-footer {
-  background-color: var(--color-header-footer);
+  background-color: var(--color-header-footer) !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
