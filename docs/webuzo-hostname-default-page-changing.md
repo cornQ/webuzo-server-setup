@@ -2,6 +2,6 @@ The web page of the hostname of the Webuzo panel shows the server engine's defau
 
 To customize or change it, follow the instructions.
 
-You can change the default page from the ` Webuzo admin panel >> Users >> Web Template Editor`
+You can change the default page from the `Webuzo admin panel >> Users >> Web Template Editor`
 
 There you can write html code or upload html template.

@@ -6,4 +6,5 @@ If the instruction doesn't work, then follow the same guide and after that execu
 /usr/local/emps/bin/php /usr/local/webuzo/cron.php 
 ```
 
-> Note: Run after reboot
+!!! note
+    Run after reboot

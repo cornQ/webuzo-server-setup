@@ -5,18 +5,20 @@ Instruction from Mailbaby: https://www.mail.baby/tips/webuzo/
 
 ## MailBaby Setup
 
-##### Step 01: Go to Webuzo Admin Panel >> Email >> Mail Settings
-##### Step 02: Section Header > begin authenticator & Rule > dovecot_login
+##### Step 01: Go to `Webuzo Admin Panel >> Email >> Mail Settings`
+##### Step 02: Navigate `Section Header > begin authenticator` & `Rule > dovecot_login`
 
 ```conf
 mailbaby_login:
     driver = plaintext
     public_name = LOGIN
-    # Specify your username and password below
     client_send = : yourusername : yourpassword
 ```
 
-##### Step 03: Section Header > begin routers & Rule > Custom Code below selected section header
+!!! tip
+	Replace your username and password with the yourusername & yourpassword
+
+##### Step 03: Navigate `Section Header > begin routers` & `Rule > Custom Code below selected section header`
 
 ```conf
 send_via_mailbaby:
@@ -24,11 +26,13 @@ send_via_mailbaby:
     domains = ! +local_domains
     ignore_target_hosts = 127.0.0.0/8
     transport = mailbaby_smtp
-    # Specify your server's open port. Port 25, 465, or 587 are common.
     route_list = * relay.mailbaby.net::25 randomize byname
     no_more
 ```
-##### Step 04: Section Header > begin transports & Rule > Custom Code below selected section header
+!!! tip
+	Specify your server's open port. Port 25, 465, or 587 are common.
+
+##### Step 04: Navigate `Section Header > begin transports` & `Rule > Custom Code below selected section header`
 
 ```conf
 mailbaby_smtp:

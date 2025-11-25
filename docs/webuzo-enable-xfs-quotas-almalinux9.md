@@ -6,10 +6,10 @@ Run command
 nano /etc/sysconfig/grub
 ```
 
-Append the __rootflags=uquota__ in __GRUB_CMDLINE_LINUX="__ line
+Append the __rootflags=uquota__ in __GRUB_CMDLINE_LINUX=" .... "__ line
 
 ```conf
-GRUB_CMDLINE_LINUX="crashkernel=auto rhgb quiet rootflags=uquota
+GRUB_CMDLINE_LINUX="crashkernel=auto rhgb quiet rootflags=uquota"
 ```
 
 !!! danger
@@ -32,7 +32,7 @@ grubby --args="rootflags=uquota" --update-kernel=ALL
 ```
 
 
-!!! note
+!!! tip
     Make a copy of the grub configuration file.
 
 ```bash
