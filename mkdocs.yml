@@ -3,6 +3,13 @@ docs_dir: docs
 site_description: Documentation for Webuzo custom setups & fixes by CORNQ
 site_url: https://webuzo.cornq.net
 
+nav:
+  - Home: index.md
+  - Guides:
+      - 'Allow User Delete': webuzo-allow-user-to-delete-b...md
+      - 'Cron Setup': webuzo-awstat-cron-setup.md
+      # ... add other files here
+
 theme:
   name: material
   features:
