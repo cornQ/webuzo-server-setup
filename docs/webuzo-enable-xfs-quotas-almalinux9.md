@@ -13,7 +13,7 @@ GRUB_CMDLINE_LINUX="crashkernel=auto rhgb quiet rootflags=uquota
 ```
 
 !!! danger
-Keep previous record too inside GRUB_CMDLINE_LINUX= . Don't remove anything without having proper knowledge or replace the the whole line
+    Keep previous record too inside GRUB_CMDLINE_LINUX= . Don't remove anything without having proper knowledge or replace the the whole line
 
 Rebuild the grub configuration file by executing following command.
 
