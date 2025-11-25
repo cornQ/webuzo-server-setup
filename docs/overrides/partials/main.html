@@ -2,5 +2,15 @@
 
 {% block extrahead %}
   {{ super() }}
-  {% include "partials/integrations.html" %}
+  <script type="text/javascript">
+    window.$crisp = [];
+    window.CRISP_WEBSITE_ID = "25060279-2b87-4929-b981-33f2d68d2e35";
+    (function () {
+      d = document;
+      s = d.createElement("script");
+      s.src = "https://client.crisp.chat/l.js";
+      s.async = 1;
+      d.getElementsByTagName("head")[0].appendChild(s);
+    })();
+  </script>
 {% endblock %}
