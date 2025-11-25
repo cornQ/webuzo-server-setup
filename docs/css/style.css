@@ -37,7 +37,7 @@ body {
 @media screen and (min-width: 60em) {
     [dir=ltr] .md-search__input {
         padding-left: 2.2rem;
-        background-color:  var(--color-body);
+        background-color:  #E0E4EC !important;
         border: solid 1px var(--color-link-hover);
     }
 }
