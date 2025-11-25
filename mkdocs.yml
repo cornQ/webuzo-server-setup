@@ -16,6 +16,7 @@ plugins:
   - search
 
 markdown_extensions:
+  - nl2br
   - admonition
   - codehilite
   - footnotes
