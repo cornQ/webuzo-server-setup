@@ -32,6 +32,16 @@ body {
     color: var(--color-heading);
 }
 
+/* Search field */
+
+@media screen and (min-width: 60em) {
+    [dir=ltr] .md-search__input {
+        padding-left: 2.2rem;
+        background-color:  var(--color-body);
+        border: solid 1px var(--color-link-hover);
+    }
+}
+
 @media screen and (min-width: 76.25em) {
     [dir=ltr] .md-nav--primary .md-nav__list {
         background-color: var(--color-header-footer);
