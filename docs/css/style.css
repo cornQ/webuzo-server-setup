@@ -35,6 +35,11 @@ body {
         padding-bottom: .6rem;
     }
 
+
+.md-header__topic:first-child {
+    color: var(--color-heading);
+}
+
 h1, h2, h3, h4, h5, h6 {
   color: var(--color-heading);
   font-family: var(--font-base);
