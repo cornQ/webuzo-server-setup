@@ -42,8 +42,12 @@ body {
     }
 }
 
-.md-search__icon .md-icon{
+.md-search__icon {
   color:var(--color-link);
+}
+
+.md-search__input::placeholder {
+  color: var(--color-text);
 }
 
 @media screen and (min-width: 76.25em) {
