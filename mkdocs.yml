@@ -17,7 +17,7 @@ theme:
   language: en
 
 extra_css:
-  - css/stle.css
+  - css/style.css
 
 plugins:
   - search
