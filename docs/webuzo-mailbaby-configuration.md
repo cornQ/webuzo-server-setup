@@ -1,7 +1,4 @@
-Instruction from Webuzo: https://webuzo.com/docs/admin/how-to-add-custom-code-to-exim-configuration/ 
-Instruction from Mailbaby: https://www.mail.baby/tips/webuzo/
-
-> We tested with MailBaby and it worked fine.
+## We tested with MailBaby and it worked fine.
 
 ## MailBaby Setup
 
@@ -50,9 +47,15 @@ mailbaby_smtp:
 
 #### Now Save 
 
-#### Step 05: Restart EXIM
+!!! note
+	Step 05: Restart EXIM
 
 ### Enjoy
+
+
+!!! note
+	Official Instruction from Webuzo: [How to Add Custom Code to Exim Configuration](https://webuzo.com/docs/admin/how-to-add-custom-code-to-exim-configuration/) 
+	Offiicial Instruction from Mailbaby: [WEBUZO](https://www.mail.baby/tips/webuzo/)
 
 
   

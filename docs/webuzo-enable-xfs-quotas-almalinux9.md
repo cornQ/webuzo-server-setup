@@ -1,4 +1,4 @@
-Instructions: https://webuzo.com/docs/admin/enable-xfs-quotas/
+Follow this Webuzo official Instruction: [Enable XFS Quotas](https://webuzo.com/docs/admin/enable-xfs-quotas/)
 
 Run command 
 

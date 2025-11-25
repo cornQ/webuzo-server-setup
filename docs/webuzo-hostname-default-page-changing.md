@@ -4,4 +4,5 @@ To customize or change it, follow the instructions.
 
 You can change the default page from the `Webuzo admin panel >> Users >> Web Template Editor`
 
-There you can write html code or upload html template.
+!!! note
+    There you can write HTML code or upload your own HTML template.

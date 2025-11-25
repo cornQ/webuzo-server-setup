@@ -5,4 +5,5 @@ If you are using a web server's DNS with its nameserver, then the following URL 
 3) https://domain.com/webmail
 
 
-> There is no specific port like cPanel
+!!! note
+    There is no specific port like cPanel
