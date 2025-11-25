@@ -1,0 +1,26 @@
+site_name: Webuzo Server Setup
+site_description: Documentation for Webuzo custom setups & fixes by CORNQ
+site_url: https://webuzo.cornq.net
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+  - awesome-pages
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
