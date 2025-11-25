@@ -46,7 +46,7 @@ mailbaby_smtp:
 
 #### Now Save 
 
-##### Step 05: Restart EXIM
+#### Step 05: Restart EXIM
 
 ### Enjoy
 
