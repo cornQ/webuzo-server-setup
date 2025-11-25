@@ -41,8 +41,8 @@ nav:
 nav:
   - Home: index.md
   - 'System Setup':
-      - 'Enable CPgroups v2 in AlmaLinux 9': webuzo-enable-cpgroups-v2.md
-      - 'Enable XFS Quotas (Alma9)': webuzo-enable-xfs-quotas-almalinux9.md
+      - 'Enable CPgroups v2 in Alma9': webuzo-enable-cpgroups-v2.md
+      - 'Enable XFS Quotas Alma9': webuzo-enable-xfs-quotas-almalinux9.md
       - 'Change Hostname Default Page': webuzo-hostname-default-page-changing.md
       - 'Awstats Cron Setup': webuzo-awstat-cron-setup.md
   - 'Database & Cache':
@@ -53,11 +53,11 @@ nav:
       - 'Check User Resource Limits': webuzo-check-resource-limit-from-end-user-terminal.md
       - 'Increase Terminal Max Processes': webuzo-increase-terminal-max-processes-for-a-specific-user.md
       - 'Fix User Directory Permissions': webuzo-fix-directory-permission-for-user.md
-      - 'Allow User to Delete Backuply Files': webuzo-allow-user-to-delete-backuply-backup-files.md
+      - 'Enable User to Delete Backup Files': webuzo-allow-user-to-delete-backuply-backup-files.md
   - 'Mail & FTP':
-      - 'MailBaby Configuration': webuzo-mailbaby-configuration.md
+      - 'MailBaby Configuration with Webuzo': webuzo-mailbaby-configuration.md
       - 'Webmail Default URL': webuzo-webmail-default-login-url.md
       - 'Fix FTP Issues': webuzo-ftp-file-transfer-issue-solved.md
   - 'Migrations':
       - 'Migrate from CyberPanel': webuzo-migration-from-cyber-panel.md
-      - 'Import via Root Pass': webuzo-to-webuzo-import-using-root-password.md
+      - 'Migrate from Webuzo via root': webuzo-to-webuzo-import-using-root-password.md
