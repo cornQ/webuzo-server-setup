@@ -1,7 +1,7 @@
 site_name: Webuzo Server Setup
+docs_dir: docs
 site_description: Documentation for Webuzo custom setups & fixes by CORNQ
 site_url: https://webuzo.cornq.net
-docs_dir: docs
 
 theme:
   name: material
