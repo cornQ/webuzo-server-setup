@@ -6,6 +6,8 @@
   --color-link: #3c99df;
   --color-link-hover: #012891;
   --font-base: "Nanuto", sans-serif;
+  --footer-bg-color--dark: #00000000;
+  
 }
 
 body {
@@ -15,7 +17,11 @@ body {
 }
 
 .md-header, .md-footer {
-  background-color: var(--color-header-footer) !important;
+  background-color: var(--color-header-footer);
+}
+
+.md-footer-meta{
+  background-color: var( --footer-bg-color--dark);
 }
 
 h1, h2, h3, h4, h5, h6 {
