@@ -42,6 +42,10 @@ body {
     }
 }
 
+.md-search__icon .md-icon{
+  color:var(--color-link);
+}
+
 @media screen and (min-width: 76.25em) {
     [dir=ltr] .md-nav--primary .md-nav__list {
         background-color: var(--color-header-footer);
