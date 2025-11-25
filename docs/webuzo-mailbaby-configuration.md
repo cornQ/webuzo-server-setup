@@ -1,4 +1,4 @@
-Instruction from Webuzo: https://webuzo.com/docs/admin/how-to-add-custom-code-to-exim-configuration/ \
+Instruction from Webuzo: https://webuzo.com/docs/admin/how-to-add-custom-code-to-exim-configuration/ 
 Instruction from Mailbaby: https://www.mail.baby/tips/webuzo/
 
 > We tested with MailBaby and it worked fine.
