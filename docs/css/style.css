@@ -28,6 +28,10 @@ body {
   background-color: var(--color-header-footer);
 }
 
+.md-header__title--active .md-header__topic+.md-header__topic {
+    color: var(--color-heading);
+}
+
 @media screen and (min-width: 76.25em) {
     [dir=ltr] .md-nav--primary .md-nav__list {
         background-color: var(--color-header-footer);
