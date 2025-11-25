@@ -11,7 +11,7 @@ Add the following lines to set the process limits for your user (replace webuzo_
 `webuzo_user   hard   nproc   4096`
 
 
-Additionally, some systems use configuration files under `/etc/security/limits.d/`, which may override the settings.\
+Additionally, some systems use configuration files under `/etc/security/limits.d/`, which may override the settings.
 Check if the file `/etc/security/limits.d/90-nproc.conf` exists.
 If it does, add the same entries for your user there as well:
 
