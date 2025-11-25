@@ -1,15 +1,16 @@
 site_name: Webuzo Server Setup
 site_description: Documentation for Webuzo custom setups & fixes by CORNQ
 site_url: https://webuzo.cornq.net
+docs_dir: docs
 
 theme:
   name: material
   features:
     - navigation.instant
     - navigation.expand
+    - content.code.copy
     - search.suggest
     - search.highlight
-    - content.code.copy
 
 plugins:
   - search
