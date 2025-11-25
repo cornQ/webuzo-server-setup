@@ -8,26 +8,26 @@ Use the left menu to browse detailed instructions and troubleshooting topics.
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
 
 <div class="grid-container">
-  <div class="grid-box">
+  <a class="grid-box" href="https://webuzo.com/docs/" target="_blank">
     <div class="grid-icon"><i class="fas fa-book"></i></div>
     <div class="grid-title">Webuzo Docs</div>
     <div class="grid-subtitle">Official Webuzo Guides</div>
-  </div>
-  <div class="grid-box">
+  </a>
+  <a class="grid-box" href="https://portal.cornq.com/knowledge-base/" target="_blank">
     <div class="grid-icon"><i class="fas fa-database"></i></div>
     <div class="grid-title">CORNQ KB</div>
     <div class="grid-subtitle">Browse helpful articles</div>
-  </div>
-  <div class="grid-box">
+  </a>
+  <a class="grid-box" href="https://github.com/cornQ/webuzo-server-setup/" target="_blank">
     <div class="grid-icon"><i class="fas fa-pen-nib"></i></div>
     <div class="grid-title">Contribute</div>
     <div class="grid-subtitle">Improve or fix this doc</div>
-  </div>
-  <div class="grid-box">
+  </a>
+  <a class="grid-box" href="https://portal.cornq.com/knowledge-base/index.php?fuse=support&controller=ticket&view=submitticket" target="_blank">
     <div class="grid-icon"><i class="fas fa-ticket-alt"></i></div>
     <div class="grid-title">Support</div>
     <div class="grid-subtitle">Submit a support ticket</div>
-  </div>
+  </a>
 </div>
 
 !!! note
