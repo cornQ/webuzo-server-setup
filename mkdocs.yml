@@ -1,4 +1,4 @@
-site_name: Webuzo Server Setup
+site_name: Webuzo Supportive Documentation by CORNQ
 docs_dir: docs
 site_description: Documentation for Webuzo custom setups & fixes by CORNQ
 site_url: https://webuzo.cornq.net
@@ -37,14 +37,6 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
   - pymdownx.details
-
-nav:
-  - Home: index.md
-  - Guides:
-      - 'Allow User Delete': webuzo-allow-user-to-delete-b...md
-      - 'Cron Setup': webuzo-awstat-cron-setup.md
-      # ... add other files here
-
 
 
 # ---------------------------------------------------------
