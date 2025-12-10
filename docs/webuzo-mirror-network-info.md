@@ -1,8 +1,6 @@
 ### Webuzo Mirror Network
 
-The Webuzo Mirror Network is a globally distributed system of update and download servers designed to deliver fast, reliable access to scripts, packages, and licensing data. By hosting mirrors across Europe, North America, and Asia, Webuzo ensures minimal latency, improved uptime, and optimized performance for users worldwide.
-
-These mirrors are powered by leading data center providers such as Hetzner Online, OVHcloud, and Centrilogic, offering a strong and stable backbone for the Webuzo ecosystem.
+The Webuzo Mirror Network is a global set of servers that provides fast and reliable access to Webuzo updates and packages. These mirrors are distributed across multiple regions including Germany, Finland, France, the United States, Canada, and India, ensuring low-latency performance for users worldwide.
 
 
 | **IP**            | **Hostname**             | **Location**                         | **DC**               |
