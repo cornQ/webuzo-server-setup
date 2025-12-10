@@ -1,5 +1,3 @@
-### Webuzo Mirror Network
-
 The Webuzo Mirror Network is a global set of servers that provides fast and reliable access to Webuzo updates and packages. These mirrors are distributed across multiple regions including Germany, Finland, France, the United States, Canada, and India, ensuring low-latency performance for users worldwide.
 
 
