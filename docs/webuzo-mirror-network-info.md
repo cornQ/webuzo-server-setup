@@ -15,6 +15,4 @@ The Webuzo Mirror Network is a global set of servers that provides fast and reli
 | 148.113.15.242    | s8.softaculous.com       | Maharashtra, India                   | OVHcloud              |
 
 
-Info collection contribution: <a href="[1]" target="_blank">Joypur Host</a>
-
-[1]: https://joypurhost.com/
+Info collection contribution: <a href="https://joypurhost.com/" target="_blank" rel="noopener">Joypur Host</a>
