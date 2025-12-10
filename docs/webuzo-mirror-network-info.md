@@ -13,3 +13,8 @@ The Webuzo Mirror Network is a global set of servers that provides fast and reli
 | 51.38.94.231      | s6.softaculous.com       | France                               | OVHcloud              |
 | 15.204.134.13     | s7.softaculous.com       | Virginia, United States              | OVHcloud              |
 | 148.113.15.242    | s8.softaculous.com       | Maharashtra, India                   | OVHcloud              |
+
+
+Info colletion contribution: [Joypur Host][1]
+
+[1]: https://joypurhost.com/
