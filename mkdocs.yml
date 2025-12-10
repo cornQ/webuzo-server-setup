@@ -65,3 +65,5 @@ nav:
   - 'Migrations':
       - 'Migrate from CyberPanel': webuzo-migration-from-cyber-panel.md
       - 'Migrate from Webuzo via root': webuzo-to-webuzo-import-using-root-password.md
+  - 'Others':
+      - 'Webuzo Mirror Network': webuzo-mirror-network-list.md
