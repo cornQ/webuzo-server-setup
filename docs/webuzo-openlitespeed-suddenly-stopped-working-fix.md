@@ -10,7 +10,7 @@ The first step is to check the status of OpenLiteSpeed. This will tell you if th
 
 ```bash
 systemctl status lsws --no-pager || systemctl status lshttpd --no-pager
-````
+```
 
 * **Explanation**: This command checks the status of the OpenLiteSpeed service. Depending on your setup, it could be named `lsws` or `lshttpd`. The `--no-pager` option ensures that the output is shown directly in the terminal, without needing pagination.
 
