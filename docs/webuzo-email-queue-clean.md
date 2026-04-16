@@ -17,7 +17,8 @@ Run the following CLI command for clearing the email queue.
 webuzo --delete_email_queue
 ```
 
-!!! danger Deleting queue entries is irreversible and cannot be undone!
+!!! danger 
+    Deleting queue entries is irreversible and cannot be undone!
 
 Running the following command will show how many messages are in the queue.
 
