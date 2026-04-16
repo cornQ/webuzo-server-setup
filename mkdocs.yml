@@ -63,6 +63,7 @@ nav:
       - 'MailBaby Configuration with Webuzo': webuzo-mailbaby-configuration.md
       - 'Webmail Default URL': webuzo-webmail-default-login-url.md
       - 'Fix FTP Issues': webuzo-ftp-file-transfer-issue-solved.md
+      - 'Email Queue Cleaning': webuzo-email-queue-clean.md
   - 'Migrations':
       - 'Migrate from CyberPanel': webuzo-migration-from-cyber-panel.md
       - 'Migrate from Webuzo via root': webuzo-to-webuzo-import-using-root-password.md
