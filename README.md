@@ -118,7 +118,7 @@ You can use the following prompt with ChatGPT, Codex, Claude Code, Gemini, Curso
 You are contributing to an existing technical documentation project.
 
 Repository:
-[PASTE REPOSITORY URL]
+https://github.com/cornQ/webuzo-server-setup.git
 
 Task:
 [DESCRIBE THE CHANGE]
