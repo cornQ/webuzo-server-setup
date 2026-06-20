@@ -49,7 +49,8 @@ nav:
       - 'Enable XFS Quotas Alma9': webuzo-enable-xfs-quotas-almalinux9.md
       - 'Change Hostname Default Page': webuzo-hostname-default-page-changing.md
       - 'Awstats Cron Setup': webuzo-awstat-cron-setup.md
-      - 'OpenliteSpeed Suddenly Stopped Working': webuzo-openlitespeed-suddenly-stopped-working-fix.md
+      - 'OpenLiteSpeed Suddenly Stopped Working': webuzo-openlitespeed-suddenly-stopped-working-fix.md
+      - 'Install PHP Composer Manually': webuzo-install-php-composer.md
   - 'Database & Cache':
       - 'Disable SQL Full Group': webuzo-disable-sql-full-group-by.md
       - 'Increase SQL Upload Size': webuzo-increase-sql-upload-size.md
