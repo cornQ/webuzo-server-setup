@@ -2,6 +2,9 @@ site_name: Webuzo Supportive Documentation by CORNQ
 docs_dir: docs
 site_description: Documentation for Webuzo custom setups & fixes by CORNQ
 site_url: https://webuzo.cornq.net
+repo_url: https://github.com/cornQ/webuzo-server-setup
+repo_name: cornQ/webuzo-server-setup
+copyright: Copyright &copy; CORNQ
 
 theme:
   name: material
@@ -13,7 +16,7 @@ theme:
     - search.highlight
   custom_dir: docs/overrides
   font:
-    text: Nanuto
+    text: Nunito
   language: en
 
 extra:
@@ -28,6 +31,7 @@ plugins:
   - search
 
 markdown_extensions:
+  - meta
   - nl2br
   - admonition
   - codehilite

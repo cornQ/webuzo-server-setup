@@ -1,5 +1,12 @@
-Currently Webuzo don't have direct migration system from Cyber Panel. They only provide migration from cPanel and DirectAdmin to webuzo.
+---
+title: Migrate from CyberPanel to Webuzo
+description: Notes and official reference for manually migrating websites from CyberPanel to Webuzo when no direct migration tool is available.
+---
 
-Here is the manually migration system from Cyber Panel.
+# Migrate from CyberPanel to Webuzo
+
+Currently Webuzo doesn't have direct migration system from CyberPanel. They only provide migration from cPanel and DirectAdmin to Webuzo.
+
+Here is the manual migration system from CyberPanel.
 
 [Migration From Another Panel to Webuzo](https://www.webuzo.com/docs/installing-webuzo/migration-from-another-panel-to-webuzo/)

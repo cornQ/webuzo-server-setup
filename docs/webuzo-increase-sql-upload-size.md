@@ -1,3 +1,10 @@
+---
+title: Increase SQL Upload Size in Webuzo
+description: Increase Webuzo PHP post size, upload size, and service client body size for larger SQL database imports.
+---
+
+# Increase SQL Upload Size in Webuzo
+
 Navigate to `Home > Settings > Panel Config` and increase __Webuzo PHP Max Post Size__ and increase __Webuzo PHP Max Upload Size__ and also increase __Webuzo Service Client Max Body Size__.
 
 

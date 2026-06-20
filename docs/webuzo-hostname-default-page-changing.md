@@ -1,3 +1,10 @@
+---
+title: Change Webuzo Hostname Default Page
+description: Change the default page shown on a Webuzo server hostname using the Webuzo Web Template Editor.
+---
+
+# Change Webuzo Hostname Default Page
+
 The web page of the hostname of the Webuzo panel shows the server engine's default page, for example, OpenLiteSpeed/LiteSpeed shows its 404 page, nginx shows its default page and Apache its own page. 
 
 To customize or change it, follow the instructions.

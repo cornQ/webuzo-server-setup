@@ -1,6 +1,13 @@
-# Webuzo Server Setup
+---
+title: Webuzo Server Setup, Fixes, Migration and Troubleshooting Guides
+description: Practical Webuzo server setup and troubleshooting documentation for OpenLiteSpeed, MySQL, FTP, email, migrations, resource limits, and AlmaLinux fixes.
+---
 
-Welcome to the supportive documentation for Webuzo server setup and customization guides by CORNQ.
+# Webuzo Server Setup, Fixes and Troubleshooting Guides
+
+Welcome to the CORNQ Webuzo documentation hub for server setup, customization, migrations, and common hosting control panel fixes.
+
+These guides cover practical Webuzo administration tasks including OpenLiteSpeed service issues, MySQL configuration, FTP passive port problems, email queue management, MailBaby setup, Backuply permissions, user resource limits, and AlmaLinux quota configuration.
 
 Use the left menu to browse detailed instructions and troubleshooting topics.
 

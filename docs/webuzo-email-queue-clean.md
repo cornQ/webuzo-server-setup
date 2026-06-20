@@ -1,4 +1,9 @@
-## Cleaning Email Queue
+---
+title: Clean Email Queue in Webuzo
+description: Clear the Webuzo email queue from the admin panel or command line and check Exim queue message count.
+---
+
+# Clean Email Queue in Webuzo
 
 ### From panel
 
@@ -25,5 +30,4 @@ Running the following command will show how many messages are in the queue.
 ```bash
 exim -bpc
 ```
-
 

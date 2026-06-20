@@ -1,3 +1,10 @@
+---
+title: Webuzo Mirror Network IP and Hostname List
+description: Reference list of Webuzo and Softaculous mirror network IP addresses, hostnames, regions, and data center providers.
+---
+
+# Webuzo Mirror Network IP and Hostname List
+
 The Webuzo Mirror Network is a global set of servers that provides fast and reliable access to Webuzo updates and packages. These mirrors are distributed across multiple regions including Germany, Finland, France, the United States, Canada, and India, ensuring low-latency performance for users worldwide.
 
 

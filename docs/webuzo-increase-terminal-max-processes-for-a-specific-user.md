@@ -1,3 +1,10 @@
+---
+title: Increase Terminal Max Processes for a Webuzo User
+description: Increase process limits for a specific Webuzo user by updating Linux security limits configuration.
+---
+
+# Increase Terminal Max Processes for a Webuzo User
+
 To optimize system resource limits, please add the following lines to your `/etc/security/limits.conf` file.
 
 Open the limits configuration file by running:

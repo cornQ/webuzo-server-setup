@@ -1,3 +1,10 @@
+---
+title: Install PHP Composer Manually in Webuzo
+description: Install PHP Composer manually on a Webuzo server and verify the Composer command from the terminal.
+---
+
+# Install PHP Composer Manually in Webuzo
+
 ### How do I install PHP Composer in Webuzo?
 Currently, it's not possible to install the PHP Composer from the __App Install__ function in Webuzo. However, it's possible to install it manually on the server using the following commands.
 

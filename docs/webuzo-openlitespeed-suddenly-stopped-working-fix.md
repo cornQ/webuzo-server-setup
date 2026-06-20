@@ -1,4 +1,9 @@
-# Fixing OpenLiteSpeed Service Issues on Webuzo
+---
+title: Fix OpenLiteSpeed Service Stopped in Webuzo
+description: Diagnose and restart OpenLiteSpeed when the Webuzo admin panel shows the service as stopped, including status checks, config tests, logs, and port conflict commands.
+---
+
+# Fix OpenLiteSpeed Service Stopped in Webuzo
 
 **Problem:**
 OpenLiteSpeed service is shown as "stopped" in the Webuzo admin panel, and trying to restart or start it from the panel does not work. This can happen suddenly, possibly due to a configuration change or server issue. Here's how to resolve it using the command line.

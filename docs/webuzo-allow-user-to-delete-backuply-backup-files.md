@@ -1,3 +1,10 @@
+---
+title: Allow Webuzo Users to Delete Backuply Backup Files
+description: Enable end users to delete their own Backuply backup files from the Webuzo panel.
+---
+
+# Allow Webuzo Users to Delete Backuply Backup Files
+
 The end user may take a backup in the Webuzo panel, but is unable to delete the file. In this case, the following solution will work. 
 
 ![backuply-delete-dashboard-for-user](img/backuply-delete-dashboard-for-user.png "backuply-delete-dashboard-for-user")
