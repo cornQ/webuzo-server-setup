@@ -47,6 +47,27 @@ body {
   background-color: var(--color-header-footer);
 }
 
+.md-sidebar--secondary,
+.md-sidebar--secondary .md-sidebar__scrollwrap {
+  background-color: transparent;
+}
+
+.md-sidebar--secondary .md-nav {
+  background-color: transparent;
+}
+
+.md-sidebar--secondary .md-nav__title {
+  background-color: transparent;
+  box-shadow: none;
+  color: var(--color-text);
+  font-size: .72rem;
+  font-weight: 800;
+}
+
+.md-sidebar--secondary .md-nav__link {
+  background-color: transparent;
+}
+
 .md-header__title--active .md-header__topic+.md-header__topic {
     color: var(--color-heading);
 }
