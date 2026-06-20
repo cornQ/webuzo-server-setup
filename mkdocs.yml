@@ -11,9 +11,13 @@ theme:
   features:
     - navigation.instant
     - navigation.expand
+    - navigation.path
+    - navigation.sections
+    - navigation.top
     - content.code.copy
     - search.suggest
     - search.highlight
+    - toc.follow
   custom_dir: docs/overrides
   font:
     text: Nunito
