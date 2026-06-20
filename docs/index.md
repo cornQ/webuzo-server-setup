@@ -3,11 +3,17 @@ title: Webuzo Server Setup, Fixes, Migration and Troubleshooting Guides
 description: Practical Webuzo server setup and troubleshooting documentation for OpenLiteSpeed, MySQL, FTP, email, migrations, resource limits, and AlmaLinux fixes.
 ---
 
-# Webuzo Server Setup, Fixes and Troubleshooting Guides
+<div class="home-panel">
+  <div class="home-kicker">CORNQ Webuzo Documentation</div>
+  <h1>Webuzo Server Setup, Fixes and Troubleshooting Guides</h1>
+  <p>Practical notes for Webuzo administration, OpenLiteSpeed, MySQL, FTP, email delivery, migrations, resource limits, Backuply permissions, and AlmaLinux server setup.</p>
+  <div class="home-actions">
+    <a class="home-button home-button--primary" href="webuzo-openlitespeed-suddenly-stopped-working-fix/">Start troubleshooting</a>
+    <a class="home-button" href="webuzo-migration-from-cyber-panel/">Migration guides</a>
+  </div>
+</div>
 
-Welcome to the CORNQ Webuzo documentation hub for server setup, customization, migrations, and common hosting control panel fixes.
-
-These guides cover practical Webuzo administration tasks including OpenLiteSpeed service issues, MySQL configuration, FTP passive port problems, email queue management, MailBaby setup, Backuply permissions, user resource limits, and AlmaLinux quota configuration.
+## Popular Guides
 
 <div class="grid-container">
   <a class="grid-box" href="webuzo-openlitespeed-suddenly-stopped-working-fix/">
@@ -32,7 +38,7 @@ These guides cover practical Webuzo administration tasks including OpenLiteSpeed
   </a>
 </div>
 
-<h2>Quick Links</h2>
+## Resources
 
 <div class="grid-container">
   <a class="grid-box" href="https://webuzo.com/docs/" target="_blank" rel="noopener">

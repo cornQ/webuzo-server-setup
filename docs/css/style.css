@@ -168,6 +168,40 @@ a:hover {
 
 /* Homepage */
 
+.home-panel {
+  background: linear-gradient(135deg, #ffffff 0%, #f1f8ff 58%, #e9f7fb 100%);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  box-shadow: var(--shadow-soft);
+  margin: .4rem 0 1.8rem;
+  padding: clamp(1.2rem, 4vw, 2.25rem);
+}
+
+.home-panel h1 {
+  color: var(--color-heading);
+  font-size: clamp(1.75rem, 3.5vw, 2.6rem);
+  font-weight: 800;
+  line-height: 1.12;
+  margin: .25rem 0 .75rem;
+  max-width: 16ch;
+}
+
+.home-panel p {
+  color: var(--color-text);
+  font-size: .95rem;
+  line-height: 1.65;
+  margin: 0;
+  max-width: 44rem;
+}
+
+.home-kicker {
+  color: var(--color-accent);
+  font-size: .68rem;
+  font-weight: 800;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
 .home-hero {
   background: linear-gradient(135deg, #ffffff 0%, #f1f8ff 58%, #e9f7fb 100%);
   border: 1px solid var(--color-border);
@@ -328,9 +362,9 @@ a:hover {
 .grid-container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 15px;
-  margin-top: 40px;
-  margin-bottom: 40px;
+  gap: 16px;
+  margin-top: 22px;
+  margin-bottom: 36px;
 }
 
 @media (max-width: 1024px) {
@@ -350,7 +384,9 @@ a:hover {
   border: 1px solid var(--color-border);
   border-radius: 8px;
   box-shadow: 0 4px 18px rgba(23, 35, 60, .05);
-  padding: 25px 20px;
+  display: block;
+  min-height: 150px;
+  padding: 24px 20px;
   text-align: center;
   transition: 0.3s;
   cursor: pointer;
@@ -377,6 +413,7 @@ a:hover {
   font-weight: 800;
   color: var(--color-heading);
   font-size: 15px;
+  line-height: 1.25;
   margin-bottom: 5px;
 }
 
