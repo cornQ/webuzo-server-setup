@@ -1,6 +1,8 @@
 ---
-title: Set Up AWStats Cron in Webuzo
-description: Add a Webuzo AWStats cron command to update visitor statistics automatically from the admin terminal.
+title: Configure AWStats Cron Job in Webuzo
+description: Complete guide to setting up AWStats cron jobs in Webuzo for automatic website traffic reporting.
+focus_keyword: AWStats Cron Setup Webuzo
+keywords: Webuzo, AWStats, Cron Job, Webuzo Tutorial, Web Hosting, Server Administration, Linux Hosting
 ---
 
 # Set Up AWStats Cron in Webuzo

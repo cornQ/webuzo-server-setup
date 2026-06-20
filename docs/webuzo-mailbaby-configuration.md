@@ -1,6 +1,8 @@
 ---
-title: Configure MailBaby SMTP Relay in Webuzo
-description: Configure MailBaby with Webuzo Exim custom code for authenticated outbound email delivery.
+title: Configure MailBaby SMTP in Webuzo
+description: Step-by-step MailBaby SMTP setup guide for reliable email delivery in Webuzo hosting environments.
+focus_keyword: MailBaby Webuzo
+keywords: Webuzo, MailBaby, SMTP, Email Configuration, Webuzo Hosting Panel, Web Hosting, Server Administration
 ---
 
 # Configure MailBaby SMTP Relay in Webuzo

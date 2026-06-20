@@ -1,6 +1,8 @@
 ---
-title: Install PHP Composer Manually in Webuzo
-description: Install PHP Composer manually on a Webuzo server and verify the Composer command from the terminal.
+title: Install PHP Composer in Webuzo Server
+description: Learn how to install and configure Composer for PHP applications on a Webuzo server.
+focus_keyword: Install Composer Webuzo
+keywords: Webuzo, PHP Composer, Webuzo Tutorial, Linux Hosting, VPS Management, Web Hosting, Server Administration
 ---
 
 # Install PHP Composer Manually in Webuzo

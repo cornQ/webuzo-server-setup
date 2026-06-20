@@ -1,6 +1,8 @@
 ---
-title: Webuzo Server Setup, Fixes, Migration and Troubleshooting Guides
-description: Practical Webuzo server setup and troubleshooting documentation for OpenLiteSpeed, MySQL, FTP, email, migrations, resource limits, and AlmaLinux fixes.
+title: Webuzo Documentation & Tutorials | Webuzo Server Management Guides
+description: Comprehensive Webuzo documentation, tutorials, troubleshooting guides, server administration tips, OpenLiteSpeed optimization, email configuration, migrations, and hosting management tutorials.
+focus_keyword: Webuzo Documentation
+keywords: Webuzo, Webuzo Tutorial, Webuzo Documentation, Webuzo Hosting Panel, OpenLiteSpeed, AlmaLinux, Linux Hosting, VPS Management, Web Hosting, Server Administration
 ---
 
 <div class="home-panel">

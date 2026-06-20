@@ -1,6 +1,8 @@
 ---
-title: Webuzo Mirror Network IP and Hostname List
-description: Reference list of Webuzo and Softaculous mirror network IP addresses, hostnames, regions, and data center providers.
+title: Webuzo Mirror Network Information
+description: Learn about Webuzo mirror servers, package repositories, synchronization, and download sources.
+focus_keyword: Webuzo Mirror Network
+keywords: Webuzo, Webuzo Mirror Network, Webuzo Documentation, Server Administration, Linux Hosting
 ---
 
 # Webuzo Mirror Network IP and Hostname List

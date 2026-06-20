@@ -1,6 +1,8 @@
 ---
-title: Allow Webuzo Users to Delete Backuply Backup Files
-description: Enable end users to delete their own Backuply backup files from the Webuzo panel.
+title: Allow Users to Delete Backuply Backup Files in Webuzo
+description: Configure Backuply permissions and allow users to manage or delete backup files safely.
+focus_keyword: Backuply Backup Files
+keywords: Webuzo, Backuply, Backup Files, Webuzo Hosting Panel, Web Hosting, Server Administration
 ---
 
 # Allow Webuzo Users to Delete Backuply Backup Files

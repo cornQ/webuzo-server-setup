@@ -1,6 +1,8 @@
 ---
-title: Webuzo Webmail Default Login URL
-description: Find the default Webuzo webmail login URLs for accessing email accounts through mail subdomains, Webuzo webmail paths, and browser login routes.
+title: Default Webmail Login URL in Webuzo
+description: Find and customize the default webmail login URL for Webuzo hosting accounts.
+focus_keyword: Webuzo Webmail Login URL
+keywords: Webuzo, Webmail, Webuzo Webmail Login URL, Email Configuration, Webuzo Hosting Panel, Web Hosting
 ---
 
 # Webuzo Webmail Default Login URL

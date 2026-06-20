@@ -1,6 +1,8 @@
 ---
-title: Change Webuzo Hostname Default Page
-description: Change the default page shown on a Webuzo server hostname using the Webuzo Web Template Editor.
+title: How to Change the Default Hostname Page in Webuzo
+description: Learn how to customize or replace the default hostname page in Webuzo hosting servers.
+focus_keyword: Change Hostname Page Webuzo
+keywords: Webuzo, Hostname Page, Webuzo Hosting Panel, Web Hosting, Server Administration, Linux Hosting
 ---
 
 # Change Webuzo Hostname Default Page

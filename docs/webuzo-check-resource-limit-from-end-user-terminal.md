@@ -1,6 +1,8 @@
 ---
-title: Check Webuzo User Resource Limits from Terminal
-description: Use the end user terminal in Webuzo to check Linux resource limits with ulimit.
+title: Check User Resource Limits in Webuzo via Terminal
+description: Monitor CPU, memory, process, and hosting account resource limits directly from terminal.
+focus_keyword: Check Resource Limits Webuzo
+keywords: Webuzo, Hosting Resource Limits, Linux Hosting, VPS Management, Webuzo Hosting Panel, Server Administration
 ---
 
 # Check Webuzo User Resource Limits from Terminal

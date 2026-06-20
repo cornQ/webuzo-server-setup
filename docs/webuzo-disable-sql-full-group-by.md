@@ -1,6 +1,8 @@
 ---
-title: Disable ONLY_FULL_GROUP_BY in MySQL on Webuzo
-description: Fix MySQL ONLY_FULL_GROUP_BY SQL mode errors on Webuzo by updating the MySQL configuration and restarting the database service.
+title: Disable SQL_FULL_GROUP_BY in MySQL and MariaDB on Webuzo
+description: Fix SQL_FULL_GROUP_BY errors in MySQL and MariaDB servers managed through Webuzo.
+focus_keyword: Disable SQL_FULL_GROUP_BY
+keywords: Webuzo, MySQL, MariaDB, SQL_FULL_GROUP_BY, Webuzo Hosting Panel, Server Administration
 ---
 
 # Disable ONLY_FULL_GROUP_BY in MySQL on Webuzo

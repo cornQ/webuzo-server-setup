@@ -1,6 +1,8 @@
 ---
-title: Enable XFS Quotas for Webuzo on AlmaLinux 9
-description: Enable XFS user quotas for Webuzo on AlmaLinux 9 by updating GRUB root flags and rebuilding boot configuration.
+title: Enable XFS Quotas in AlmaLinux 9 for Webuzo Hosting
+description: Step-by-step guide to enable XFS disk quotas on AlmaLinux 9 servers running Webuzo hosting control panel.
+focus_keyword: XFS Quotas AlmaLinux 9
+keywords: Webuzo, XFS Quotas, AlmaLinux 9, Webuzo Hosting Panel, Linux Hosting, Server Administration, VPS Management
 ---
 
 # Enable XFS Quotas for Webuzo on AlmaLinux 9

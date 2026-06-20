@@ -1,6 +1,8 @@
 ---
-title: Enable cGroups v2 in Webuzo on AlmaLinux
-description: Enable cGroups v2 for Webuzo and run the Webuzo cron command when the official instructions do not fully apply the change.
+title: How to Enable CPGroups v2 in Webuzo on AlmaLinux 9
+description: Learn how to enable CPGroups v2 in Webuzo on AlmaLinux 9 for resource isolation, process control, and improved hosting account management.
+focus_keyword: Enable CPGroups v2 Webuzo
+keywords: Webuzo, CPGroups v2, AlmaLinux 9, Webuzo Hosting Panel, Hosting Resource Limits, Linux Hosting, VPS Management
 ---
 
 # Enable cGroups v2 in Webuzo on AlmaLinux

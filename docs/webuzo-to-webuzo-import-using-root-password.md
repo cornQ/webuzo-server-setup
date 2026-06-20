@@ -1,6 +1,8 @@
 ---
-title: Migrate Webuzo to Webuzo Using Root Password
-description: Prepare source and destination Webuzo servers for migration by allowing passive FTP ports in CSF firewall configuration.
+title: Migrate Webuzo to Webuzo Using Root Access
+description: Transfer hosting accounts between Webuzo servers using root credentials and migration tools.
+focus_keyword: Webuzo to Webuzo Migration
+keywords: Webuzo, Webuzo Migration, VPS Management, Web Hosting, Webuzo Hosting Panel, Server Administration
 ---
 
 # Migrate Webuzo to Webuzo Using Root Password

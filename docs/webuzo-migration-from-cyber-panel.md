@@ -1,6 +1,8 @@
 ---
 title: Migrate from CyberPanel to Webuzo
-description: Notes and official reference for manually migrating websites from CyberPanel to Webuzo when no direct migration tool is available.
+description: Complete migration guide from CyberPanel to Webuzo including websites, databases, email accounts, and DNS.
+focus_keyword: CyberPanel to Webuzo Migration
+keywords: Webuzo, CyberPanel Migration, CyberPanel to Webuzo Migration, VPS Management, Web Hosting, Server Administration
 ---
 
 # Migrate from CyberPanel to Webuzo

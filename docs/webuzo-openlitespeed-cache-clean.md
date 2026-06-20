@@ -1,6 +1,8 @@
 ---
 title: Clear OpenLiteSpeed Cache in Webuzo
-description: Learn where Webuzo stores OpenLiteSpeed cache data and how to clear OLS cache manually from the server.
+description: Learn how to clear and refresh OpenLiteSpeed cache in Webuzo hosting servers.
+focus_keyword: Clear OpenLiteSpeed Cache
+keywords: Webuzo, OpenLiteSpeed, OpenLiteSpeed Cache, Webuzo Hosting Panel, Web Hosting, Server Administration
 ---
 
 # Clear OpenLiteSpeed Cache in Webuzo

@@ -1,6 +1,8 @@
 ---
-title: Fix Webuzo FTP Passive Port File Transfer Issues
-description: Resolve Webuzo FTP upload, download, and directory listing problems by allowing passive FTP port ranges in CSF firewall configuration.
+title: Fix FTP File Transfer Issues in Webuzo
+description: Troubleshoot FTP connection, passive mode, timeout, and file transfer problems in Webuzo.
+focus_keyword: FTP Issues Webuzo
+keywords: Webuzo, FTP Troubleshooting, FTP Issues, Webuzo Hosting Panel, Web Hosting, Server Administration
 ---
 
 # Fix Webuzo FTP Passive Port File Transfer Issues
