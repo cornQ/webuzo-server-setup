@@ -44,7 +44,31 @@ body {
 }
 
 .md-sidebar {
-  background-color: var(--color-header-footer);
+  background-color: #ffffff;
+}
+
+.md-sidebar--primary,
+.md-sidebar--primary .md-sidebar__scrollwrap,
+.md-sidebar--primary .md-nav,
+.md-sidebar--primary .md-nav__list {
+  background-color: #ffffff;
+}
+
+.md-sidebar--primary .md-nav__title {
+  background-color: #ffffff;
+  box-shadow: none;
+  color: var(--color-text);
+  font-size: .72rem;
+  font-weight: 800;
+}
+
+.md-sidebar--primary .md-nav__item--nested > .md-nav__link {
+  color: var(--color-heading);
+  font-weight: 800;
+}
+
+.md-sidebar--primary .md-nav__toggle ~ .md-nav__link .md-nav__icon {
+  color: var(--color-text);
 }
 
 .md-sidebar--secondary,
