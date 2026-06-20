@@ -62,6 +62,154 @@ Helpful contributions include:
 
 Your contribution can help other Webuzo users solve server issues faster.
 
+### Contribute with the Help of AI
+
+This project welcomes AI-assisted contributions. Contributors may use AI tools such as ChatGPT, Codex, Claude Code, Gemini, Cursor, Windsurf, or similar assistants to help create, update, improve, or maintain documentation.
+
+AI can significantly reduce the time required to write documentation, update metadata, review consistency, and maintain project structure. However, contributors remain fully responsible for reviewing and validating all AI-generated changes before submitting a pull request.
+
+#### Before Using AI
+
+Before asking an AI assistant to make changes:
+
+1. Clone the repository.
+2. Create a dedicated branch.
+3. Review the existing documentation structure.
+4. Understand the page or section you want to modify.
+5. Identify any related files that may also need updates.
+6. Provide sufficient context to the AI assistant.
+
+#### AI Contribution Rules
+
+When using AI, contributors must follow these rules:
+
+- Preserve technical accuracy.
+- Preserve existing documentation structure.
+- Preserve code blocks unless changes are required.
+- Preserve commands unless changes are required.
+- Preserve comments and internal notes.
+- Avoid marketing language.
+- Avoid unsupported technical claims.
+- Avoid generating fictional information.
+- Avoid introducing unnecessary content.
+- Keep documentation clear, accurate, and maintainable.
+
+Any AI-generated content should match the style and structure already used throughout the project.
+
+#### Recommended AI Workflow
+
+1. Clone the repository.
+2. Create a new branch.
+3. Open your preferred AI assistant.
+4. Provide repository context.
+5. Explain the task clearly.
+6. Review the proposed changes.
+7. Verify all affected files.
+8. Test locally if applicable.
+9. Commit your changes.
+10. Push the branch.
+11. Open a pull request.
+
+#### Universal AI Contribution Prompt
+
+You can use the following prompt with ChatGPT, Codex, Claude Code, Gemini, Cursor, Windsurf, or similar tools.
+
+```text
+You are contributing to an existing technical documentation project.
+
+Repository:
+[PASTE REPOSITORY URL]
+
+Task:
+[DESCRIBE THE CHANGE]
+
+Requirements:
+
+1. Review the existing project structure before making changes.
+
+2. Follow the existing documentation style and formatting.
+
+3. Do not rewrite unrelated content.
+
+4. Do not modify comments.
+
+5. Do not modify internal notes.
+
+6. Do not modify hidden instructions.
+
+7. Preserve code blocks unless the task explicitly requires changes.
+
+8. Preserve commands unless the task explicitly requires changes.
+
+9. Preserve technical accuracy.
+
+10. If creating a new documentation page:
+    - Follow the existing page structure.
+    - Follow the existing naming convention.
+    - Add required metadata.
+    - Add navigation references if required.
+    - Update sitemap.xml if required.
+    - Update llms.txt if required.
+    - Update any navigation, sidebar, index, or configuration files that reference documentation pages.
+
+11. If editing an existing page:
+    - Keep formatting consistent.
+    - Preserve existing examples.
+    - Preserve existing commands.
+    - Preserve screenshots and references.
+
+12. If renaming a page:
+    - Update all internal links.
+    - Update navigation references.
+    - Update sitemap entries.
+    - Update related documentation references.
+
+13. If deleting a page:
+    - Remove navigation references.
+    - Remove sitemap references.
+    - Remove related links.
+    - Ensure no broken references remain.
+
+14. Do not invent files that do not exist.
+
+15. Before making changes:
+    - Inspect the repository.
+    - Identify all affected files.
+    - Create a change plan.
+
+16. After making changes:
+    - List all modified files.
+    - Explain why each file was modified.
+    - Verify that no unrelated files were changed.
+
+17. Maintain consistency across the entire documentation project.
+
+Goal:
+
+Implement the requested documentation change while preserving project quality, technical accuracy, navigation integrity, metadata consistency, and overall maintainability.
+```
+
+#### AI Review Checklist
+
+Before submitting a pull request, verify:
+
+- Documentation remains technically accurate.
+- No unrelated content was modified.
+- Navigation remains functional.
+- Internal links work correctly.
+- Metadata remains consistent.
+- Sitemap entries are correct.
+- Documentation structure remains consistent.
+- No placeholder content exists.
+- No AI-generated filler content exists.
+- No unsupported technical claims were introduced.
+
+#### Important Note
+
+AI should assist contributors, not replace contributor responsibility. Every contributor is responsible for reviewing, validating, and testing AI-generated changes before opening a pull request.
+
+Never merge changes that have not been reviewed by a human.
+
 ### Project Structure
 
 Use the existing project files when contributing:
