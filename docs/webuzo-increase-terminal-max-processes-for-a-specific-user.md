@@ -3,6 +3,9 @@ title: Increase Max Processes for a User in Webuzo
 description: Configure and increase process limits for specific hosting users on Webuzo servers.
 focus_keyword: Increase Max Processes Webuzo
 keywords: Webuzo, Hosting Resource Limits, Linux Hosting, VPS Management, Webuzo Hosting Panel, Server Administration
+canonical: https://webuzo.cornq.net/webuzo-increase-terminal-max-processes-for-a-specific-user/
+author: CORNQ Technical Team
+lastUpdated: 2026-06-20
 ---
 
 # Increase Terminal Max Processes for a Webuzo User

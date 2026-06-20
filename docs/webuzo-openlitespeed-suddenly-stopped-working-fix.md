@@ -3,6 +3,9 @@ title: Fix OpenLiteSpeed Not Working in Webuzo
 description: Troubleshoot and fix OpenLiteSpeed server issues in Webuzo with step-by-step recovery methods.
 focus_keyword: OpenLiteSpeed Not Working
 keywords: Webuzo, OpenLiteSpeed, Webuzo Hosting Panel, Linux Hosting, VPS Management, Web Hosting, Server Administration
+canonical: https://webuzo.cornq.net/webuzo-openlitespeed-suddenly-stopped-working-fix/
+author: CORNQ Technical Team
+lastUpdated: 2026-06-20
 ---
 
 # Fix OpenLiteSpeed Service Stopped in Webuzo

@@ -3,6 +3,9 @@ title: Fix FTP File Transfer Issues in Webuzo
 description: Troubleshoot FTP connection, passive mode, timeout, and file transfer problems in Webuzo.
 focus_keyword: FTP Issues Webuzo
 keywords: Webuzo, FTP Troubleshooting, FTP Issues, Webuzo Hosting Panel, Web Hosting, Server Administration
+canonical: https://webuzo.cornq.net/webuzo-ftp-file-transfer-issue-solved/
+author: CORNQ Technical Team
+lastUpdated: 2026-06-20
 ---
 
 # Fix Webuzo FTP Passive Port File Transfer Issues

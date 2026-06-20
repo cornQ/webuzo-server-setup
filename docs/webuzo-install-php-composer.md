@@ -3,6 +3,9 @@ title: Install PHP Composer in Webuzo Server
 description: Learn how to install and configure Composer for PHP applications on a Webuzo server.
 focus_keyword: Install Composer Webuzo
 keywords: Webuzo, PHP Composer, Webuzo Tutorial, Linux Hosting, VPS Management, Web Hosting, Server Administration
+canonical: https://webuzo.cornq.net/webuzo-install-php-composer/
+author: CORNQ Technical Team
+lastUpdated: 2026-06-20
 ---
 
 # Install PHP Composer Manually in Webuzo

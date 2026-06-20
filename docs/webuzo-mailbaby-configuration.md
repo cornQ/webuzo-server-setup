@@ -3,6 +3,9 @@ title: Configure MailBaby SMTP in Webuzo
 description: Step-by-step MailBaby SMTP setup guide for reliable email delivery in Webuzo hosting environments.
 focus_keyword: MailBaby Webuzo
 keywords: Webuzo, MailBaby, SMTP, Email Configuration, Webuzo Hosting Panel, Web Hosting, Server Administration
+canonical: https://webuzo.cornq.net/webuzo-mailbaby-configuration/
+author: CORNQ Technical Team
+lastUpdated: 2026-06-20
 ---
 
 # Configure MailBaby SMTP Relay in Webuzo

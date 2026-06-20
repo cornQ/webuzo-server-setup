@@ -3,6 +3,9 @@ title: Webuzo Mirror Network Information
 description: Learn about Webuzo mirror servers, package repositories, synchronization, and download sources.
 focus_keyword: Webuzo Mirror Network
 keywords: Webuzo, Webuzo Mirror Network, Webuzo Documentation, Server Administration, Linux Hosting
+canonical: https://webuzo.cornq.net/webuzo-mirror-network-info/
+author: CORNQ Technical Team
+lastUpdated: 2026-06-20
 ---
 
 # Webuzo Mirror Network IP and Hostname List

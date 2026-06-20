@@ -3,6 +3,9 @@ title: How to Clean Email Queue in Webuzo
 description: Manage and clear email queues in Webuzo to resolve stuck or delayed outgoing emails.
 focus_keyword: Clean Email Queue Webuzo
 keywords: Webuzo, Email Queue, Email Configuration, Webuzo Hosting Panel, Web Hosting, Server Administration
+canonical: https://webuzo.cornq.net/webuzo-email-queue-clean/
+author: CORNQ Technical Team
+lastUpdated: 2026-06-20
 ---
 
 # Clean Email Queue in Webuzo

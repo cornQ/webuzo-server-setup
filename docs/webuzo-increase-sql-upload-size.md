@@ -3,6 +3,9 @@ title: Increase MySQL Upload Size in Webuzo
 description: Increase MySQL and PHP upload limits in Webuzo for large database imports and application uploads.
 focus_keyword: Increase MySQL Upload Size
 keywords: Webuzo, MySQL, MariaDB, PHP Upload Limit, Webuzo Tutorial, Web Hosting, Server Administration
+canonical: https://webuzo.cornq.net/webuzo-increase-sql-upload-size/
+author: CORNQ Technical Team
+lastUpdated: 2026-06-20
 ---
 
 # Increase SQL Upload Size in Webuzo

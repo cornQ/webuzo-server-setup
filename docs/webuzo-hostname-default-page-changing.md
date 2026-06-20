@@ -3,6 +3,9 @@ title: How to Change the Default Hostname Page in Webuzo
 description: Learn how to customize or replace the default hostname page in Webuzo hosting servers.
 focus_keyword: Change Hostname Page Webuzo
 keywords: Webuzo, Hostname Page, Webuzo Hosting Panel, Web Hosting, Server Administration, Linux Hosting
+canonical: https://webuzo.cornq.net/webuzo-hostname-default-page-changing/
+author: CORNQ Technical Team
+lastUpdated: 2026-06-20
 ---
 
 # Change Webuzo Hostname Default Page

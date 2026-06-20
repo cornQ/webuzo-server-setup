@@ -3,6 +3,9 @@ title: Disable SQL_FULL_GROUP_BY in MySQL and MariaDB on Webuzo
 description: Fix SQL_FULL_GROUP_BY errors in MySQL and MariaDB servers managed through Webuzo.
 focus_keyword: Disable SQL_FULL_GROUP_BY
 keywords: Webuzo, MySQL, MariaDB, SQL_FULL_GROUP_BY, Webuzo Hosting Panel, Server Administration
+canonical: https://webuzo.cornq.net/webuzo-disable-sql-full-group-by/
+author: CORNQ Technical Team
+lastUpdated: 2026-06-20
 ---
 
 # Disable ONLY_FULL_GROUP_BY in MySQL on Webuzo

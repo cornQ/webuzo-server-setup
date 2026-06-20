@@ -3,6 +3,9 @@ title: Webuzo Documentation & Tutorials | Webuzo Server Management Guides
 description: Comprehensive Webuzo documentation, tutorials, troubleshooting guides, server administration tips, OpenLiteSpeed optimization, email configuration, migrations, and hosting management tutorials.
 focus_keyword: Webuzo Documentation
 keywords: Webuzo, Webuzo Tutorial, Webuzo Documentation, Webuzo Hosting Panel, OpenLiteSpeed, AlmaLinux, Linux Hosting, VPS Management, Web Hosting, Server Administration
+canonical: https://webuzo.cornq.net/
+author: CORNQ Technical Team
+lastUpdated: 2026-06-20
 ---
 
 <div class="home-panel">
