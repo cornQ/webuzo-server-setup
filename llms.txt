@@ -1,0 +1,22 @@
+# Webuzo Server Setup Documentation
+
+Project: Webuzo Server Setup Documentation
+
+Organization: CORNQ
+
+Primary documentation URL: https://webuzo.cornq.net/
+
+Purpose: Technical documentation for Webuzo server setup, troubleshooting, migration, mail, FTP, database, OpenLiteSpeed, and server administration tasks.
+
+Main topics:
+- Webuzo hosting panel administration
+- AlmaLinux server setup
+- OpenLiteSpeed troubleshooting and cache management
+- MySQL and MariaDB configuration
+- FTP troubleshooting
+- Email configuration and queue management
+- User resource limits and permissions
+- Backuply permissions
+- CyberPanel to Webuzo migration
+- Webuzo to Webuzo migration
+- Webuzo mirror network information
