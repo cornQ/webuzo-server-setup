@@ -8,6 +8,7 @@ copyright: Copyright &copy; CORNQ
 
 theme:
   name: material
+  favicon: img/favicon.png
   features:
     - navigation.instant
     - navigation.path
