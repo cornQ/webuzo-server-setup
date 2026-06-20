@@ -34,6 +34,13 @@ body {
   padding-bottom: .15rem;
 }
 
+.md-logo img,
+.md-header__button.md-logo img {
+  display: block;
+  height: 1.35rem;
+  width: 1.35rem;
+}
+
 .md-footer {
   background-color: var(--color-header-footer);
   border-top: 1px solid var(--color-border);
@@ -292,6 +299,13 @@ a:hover {
   .md-nav--primary .md-nav__title .md-nav__button,
   .md-nav--primary .md-nav__title .md-logo {
     color: #ffffff;
+  }
+
+  .md-nav--primary .md-nav__title .md-logo img,
+  .md-nav--primary .md-nav__title .md-nav__button img {
+    display: block;
+    height: 1.8rem;
+    width: 1.8rem;
   }
 
   .md-nav--primary .md-nav__title svg,
