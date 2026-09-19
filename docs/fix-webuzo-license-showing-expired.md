@@ -4,6 +4,8 @@ Sometimes, Webuzo may show a license expiration issue even though you have a val
 
 After logging in to the Webuzo Admin Panel, you may see a page asking you to enter your license key and email address. Even after submitting the correct information, the license may not activate.
 
+![Webuzo license showing as expired](/docs/img/fix-webuzo-license-showing-expired-panel-issue.png)
+
 You can check the current license status using:
 
 ```bash
@@ -12,7 +14,7 @@ webuzo -l
 
 You may find that Webuzo reports the license as expired.
 
-![Webuzo license showing as expired](img/webuzo-license-expired-01.png)
+![Webuzo license showing as expired](/docs/img/fix-webuzo-license-showing-expired.-check-license.png)
 
 You may then try refreshing the license using:
 
@@ -22,7 +24,7 @@ webuzo --refresh-license
 
 However, in some cases, this does not resolve the issue.
 
-![Webuzo refresh license failed](img/webuzo-license-expired-02.png)
+![Webuzo refresh license failed](/docs/img/fix-webuzo-license-showing-expired.-refresh-license.png)
 
 ## Solution
 
@@ -36,7 +38,6 @@ webuzo --update-keys
 
 This will fetch and update the required keys from the Softaculous servers.
 
-![Webuzo update keys output](img/webuzo-license-expired-03.png)
 
 ### Step 2: Refresh the Webuzo License
 
@@ -46,7 +47,7 @@ After updating the keys, refresh the license again:
 webuzo --refresh-license
 ```
 
-![Webuzo license refresh successful](img/webuzo-license-expired-04.png)
+![Webuzo license refresh successful](/docs/img/fix-webuzo-license-showing-expired.-update-keys.png)
 
 Now refresh the **Webuzo Admin Panel** in your web browser. The license should be active again.
 
