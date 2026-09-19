@@ -20,3 +20,4 @@ Main topics:
 - CyberPanel to Webuzo migration
 - Webuzo to Webuzo migration
 - Webuzo mirror network information
+- Fix Webuzo License Showing Expired Despite a Valid License
