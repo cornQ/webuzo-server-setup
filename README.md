@@ -47,6 +47,7 @@ Live documentation: https://webuzo.cornq.net
 ### Others
 
 - [Webuzo Mirror Network](docs/webuzo-mirror-network-info.md)
+- [Fix Webuzo License Showing Expired Despite a Valid License](docs/fix-webuzo-license-showing-expired.md)
 
 ## Contributing
 
